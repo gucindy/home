@@ -1,0 +1,66 @@
+p
+{
+   text-align: justify;
+   font-size:13.5pt;
+   line-height: 20pt;
+   font-family:Verdana, Arial, Fantasy;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+h1
+{
+    font-size:50pt;
+    text-align:center;
+    color:#191970;
+}
+h2
+{
+    font-size:30pt;
+    color:blue;
+	margin-left: 50px;
+    margin-right: 50px;
+}
+h3
+{
+    font-size:20pt;
+	margin-left: 50px;
+    margin-right: 50px;
+}
+body
+{
+    background-color:#AFEEEE;
+	/* This colour code's name is called pale turquois */ 
+}
+ul
+{
+    font-size:13.5pt;
+    font-family:Verdana, Arial, Fantasy;
+	margin-left: 50px;
+    margin-right: 50px;
+}
+
+img
+{
+	border-color:#6495ED;
+	border-width: medium;
+	border-style: solid;
+	padding: 0.5%;
+	margin-left: 50px;
+}
+#list
+{
+	 line-height: 20pt;
+}
+.image
+{
+	border-color:#AFEEEE;
+}
+
+
+
+	
+
+
+
+
+	
